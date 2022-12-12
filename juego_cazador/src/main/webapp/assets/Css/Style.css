@@ -1,0 +1,28 @@
+body
+{
+    background-color: black;
+    text-align: center;
+}
+h1
+{
+    color: blue;
+}
+p{
+    color: whitesmoke;
+}
+a
+{
+    color: blue;
+    display: block; 
+    font-family: 'Times New Roman';
+    text-decoration: none;
+    position: relative;
+    display: inline-block;   
+}
+a:hover
+{
+
+    color:violet;
+    transition: all.3s;
+    background-color: blue;
+}
